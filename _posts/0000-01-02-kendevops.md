@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+In the world of Great People the word impossible doesn't exist
 Use the left arrow to go back!
